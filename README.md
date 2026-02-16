@@ -38,9 +38,9 @@ This project is a CLI (Command Line Interface) implementation of a Tetris-like g
 
 &nbsp;   ```bash
 
-&nbsp;   git clone \[[https://github.com/YOUR\_USERNAME/C-Tetris-Game.git](https://github.com/enescetin44/C-Tetris-Game.git
-)]([https://github.com/YOUR\_USERNAME/C-Tetris-Game.git](https://github.com/enescetin44/C-Tetris-Game.git
-))
+&nbsp;   git clone \[(https://github.com/enescetin44/C-Tetris-Game.git)](https://github.com/enescetin44/C-Tetris-Game.git
+)]([(https://github.com/enescetin44/C-Tetris-Game.git)](https://github.com/enescetin44/C-Tetris-Game.git
+)
 
 &nbsp;   ```
 
