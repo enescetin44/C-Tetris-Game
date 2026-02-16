@@ -32,15 +32,11 @@ This project is a CLI (Command Line Interface) implementation of a Tetris-like g
 
 
 
-\## 🕹️ How to Run
+## 🕹️ How to Run
 
-1\.  \*\*Clone the repository:\*\*
-
-&nbsp;   ```bash
-
-&nbsp;   git clone \[(https://github.com/enescetin44/C-Tetris-Game.git)](https://github.com/enescetin44/C-Tetris-Game.git
-)]([(https://github.com/enescetin44/C-Tetris-Game.git)](https://github.com/enescetin44/C-Tetris-Game.git
-)
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/enescetin44/C-Tetris-Game.git](https://github.com/enescetin44/C-Tetris-Game.git)
 
 &nbsp;   ```
 
